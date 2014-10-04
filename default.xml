@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"  fetch="." review="review.source.android.com" />
+
+  <default revision="master" remote="github" />
+
+  <project path="cloud9" name="IDEAir" />
+
+  <project path="cloud9hub" name="cloud9hub" />
+
+</manifest>
